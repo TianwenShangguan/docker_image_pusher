@@ -1,3 +1,4 @@
 #添加镜像
 risingwavelabs/risingwave:v2.1.0
 redpandadata/redpanda:v24.3.2
+flink:1.18.1

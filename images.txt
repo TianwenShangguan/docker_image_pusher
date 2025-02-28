@@ -1,2 +1,2 @@
 #添加镜像
-docker.redpanda.com/redpandadata/console:latest
+index.docker.io/cloudtogouser/pageplug-ce:v1.9.37
